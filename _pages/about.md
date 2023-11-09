@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>best football players of all time</h1><location>centre</location>
+<location>centre</location><h1>best football players of all time</h1><location>centre</location>
 
 Football has witnessed an array of exceptional talents who have mesmerized fans with their skill, grace, and incredible performances. While it's difficult to narrow down the list to just ten players, here is a markdown highlighting some of the greatest footballers to have ever graced the sport:
 
