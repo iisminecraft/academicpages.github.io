@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "just a normal person"
   avatar           : "https://preview.redd.it/whats-ur-opinion-about-akaza-v0-ecynlgmlf5jb1.jpg?auto=webp&s=cbe4300dc634b2efd900f689796df11b4fa38059"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi guys! I am a random person doing nothing and not wanting to do anything. I look forward to seeing you in the afterlife. Yay!!!"
+  location         : "some random place that you do not know"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  googlescholar    : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   vine             :
   weibo            :
   xing             :
