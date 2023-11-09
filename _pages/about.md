@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: <h1> Greatest football players of all time </h1>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +8,11 @@ redirect_from:
 ---
 
 <h1>best football players of all time</h1>
+
+
+
+
+
 
 
  Football has witnessed an array of exceptional talents who have mesmerized fans with their skill, grace, and incredible performances. While it's difficult to narrow down the list to just ten players, here is a markdown highlighting some of the greatest footballers to have ever graced the sport:
