@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<location>centre</location><h1>best football players of all time</h1><location>centre</location>
-
+<h1>best football players of all time</h1>
+<location>centre</location>
 Football has witnessed an array of exceptional talents who have mesmerized fans with their skill, grace, and incredible performances. While it's difficult to narrow down the list to just ten players, here is a markdown highlighting some of the greatest footballers to have ever graced the sport:
 
 Pelé: The Brazilian legend, Pelé, is widely regarded as the greatest football player of all time. His mesmerizing dribbling, clinical finishing and three World Cup victories with Brazil solidify his place at the top.
