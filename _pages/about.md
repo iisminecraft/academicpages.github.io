@@ -56,9 +56,7 @@ redirect_from:
  Cristiano Ronaldo: Ronaldo's incredible athleticism, goal-scoring ability, and relentless work ethic have earned him a place among the best. With numerous domestic and international titles, he has left an indelible mark on the sport.
 
 
-
-![johan](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Johan_Cruyff_1974c.jpg/800px-Johan_Cruyff_1974c.jpg)
-
+![johan](https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt6208719b8aa55c7f/62fed65e81992935c2e84852/jq2yyzvabv761039zb60jy9u4.jpg?auto=webp&format=pjpg&width=3840&quality=60)
  
 
  Johan Cruyff: The Dutch football pioneer, Cruyff, revolutionized the game with his exceptional technique, vision, and tactical awareness. He played a pivotal role in the development of "Total Football."
