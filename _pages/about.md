@@ -32,6 +32,14 @@ redirect_from:
 
  Pelé: The Brazilian legend, Pelé, is widely regarded as the greatest football player of all time. His mesmerizing dribbling, clinical finishing and three World Cup victories with Brazil solidify his place at the top.
 
+
+
+
+![diego maradona](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F12%2F02%2Fopinion%2Fdiego-maradona-death.html&psig=AOvVaw1DcSYoiIKCY6Nt7Qc4CiSW&ust=1699703523958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy5mvuYIDFQAAAAAdAAAAABAD)
+
+
+ 
+
  Diego Maradona: The Argentine maestro, Maradona, possessed unmatched ball control, audacious dribbling skills, and an unforgettable presence on the pitch. His performances in the 1986 World Cup remain legendary.
 
  Lionel Messi: Messi's astonishing achievements, including countless records and multiple Ballon d'Or titles, have established him as one of the greatest players in history. His exceptional dribbling, vision, and goal-scoring prowess are a joy to behold.
