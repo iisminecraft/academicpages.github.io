@@ -35,7 +35,7 @@ redirect_from:
 
 
 
-![diego maradona](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F12%2F02%2Fopinion%2Fdiego-maradona-death.html&psig=AOvVaw1DcSYoiIKCY6Nt7Qc4CiSW&ust=1699703523958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy5mvuYIDFQAAAAAdAAAAABAD)
+![diego maradona](https://www.google.com/url?sa=i&url=https%3A%2F%2Few.com%2Fcelebrity%2Fdiego-maradona-dies-obituary%2F&psig=AOvVaw1DcSYoiIKCY6Nt7Qc4CiSW&ust=1699703523958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy5mvuYIDFQAAAAAdAAAAABAI)
 
 
  
