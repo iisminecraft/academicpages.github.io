@@ -42,6 +42,11 @@ redirect_from:
 
  Diego Maradona: The Argentine maestro, Maradona, possessed unmatched ball control, audacious dribbling skills, and an unforgettable presence on the pitch. His performances in the 1986 World Cup remain legendary.
 
+
+![messi](https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg)
+
+ 
+
  Lionel Messi: Messi's astonishing achievements, including countless records and multiple Ballon d'Or titles, have established him as one of the greatest players in history. His exceptional dribbling, vision, and goal-scoring prowess are a joy to behold.
 
  Cristiano Ronaldo: Ronaldo's incredible athleticism, goal-scoring ability, and relentless work ethic have earned him a place among the best. With numerous domestic and international titles, he has left an indelible mark on the sport.
