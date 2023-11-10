@@ -49,6 +49,10 @@ redirect_from:
 
  Lionel Messi: Messi's astonishing achievements, including countless records and multiple Ballon d'Or titles, have established him as one of the greatest players in history. His exceptional dribbling, vision, and goal-scoring prowess are a joy to behold.
 
+
+![ronaldo](https://e0.365dm.com/17/12/2048x1152/skysports-cristiano-ronaldo-real-madrid-football_4178227.jpg?20171209155617)
+ 
+
  Cristiano Ronaldo: Ronaldo's incredible athleticism, goal-scoring ability, and relentless work ethic have earned him a place among the best. With numerous domestic and international titles, he has left an indelible mark on the sport.
 
  Johan Cruyff: The Dutch football pioneer, Cruyff, revolutionized the game with his exceptional technique, vision, and tactical awareness. He played a pivotal role in the development of "Total Football."
