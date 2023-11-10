@@ -17,6 +17,19 @@ redirect_from:
 
  Football has witnessed an array of exceptional talents who have mesmerized fans with their skill, grace, and incredible performances. While it's difficult to narrow down the list to just ten players, here is a markdown highlighting some of the greatest footballers to have ever graced the sport:
 
+![football player](https://github.com/iisminecraft/academicpages.github.io/edit/master/_config.yml)
+
+
+
+
+
+
+
+
+
+
+ 
+
  Pelé: The Brazilian legend, Pelé, is widely regarded as the greatest football player of all time. His mesmerizing dribbling, clinical finishing and three World Cup victories with Brazil solidify his place at the top.
 
  Diego Maradona: The Argentine maestro, Maradona, possessed unmatched ball control, audacious dribbling skills, and an unforgettable presence on the pitch. His performances in the 1986 World Cup remain legendary.
