@@ -35,7 +35,7 @@ redirect_from:
 
 
 
-![diego maradona](https://www.google.com/url?sa=i&url=https%3A%2F%2Few.com%2Fcelebrity%2Fdiego-maradona-dies-obituary%2F&psig=AOvVaw1DcSYoiIKCY6Nt7Qc4CiSW&ust=1699703523958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCWy5mvuYIDFQAAAAAdAAAAABAI)
+![diego maradona](https://static01.nyt.com/images/2020/12/01/opinion/01rotulo-01/01rotulo-01-mediumSquareAt3X.jpg)
 
 
  
